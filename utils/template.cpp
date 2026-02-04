@@ -15,7 +15,7 @@ using std::endl;
 
 //FUNCION PRINCIPAL
 int main(){
-
+	cout << "Hello world!!" << endl;
 	return 0;
 }
 
