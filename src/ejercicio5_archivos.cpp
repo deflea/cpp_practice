@@ -4,7 +4,6 @@
 //NAMESPACES
 /*using namespace std;*/
 using std::cout;
-using std::cin;
 using std::endl;
 
 //DEFINES / CONSTANTES GLOBALES
