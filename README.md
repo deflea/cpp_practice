@@ -1,4 +1,4 @@
-#C++ practice projects
+# C++ practice projects
 ## Como compilar:
 	Compilar multiples archivos con includes propios
 	g++ -Iinclude src/template.cpp src/ejemplo.cpp -o main
