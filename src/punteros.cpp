@@ -15,6 +15,9 @@ using std::endl;
 
 //FUNCION PRINCIPAL
 int main(){
+	int ar[10];
+	int n = sizeof(ar)/sizeof(ar[0]);
+	cout << "Longitud de ar: " << n << endl;
 	int valor = 1;
 	cout << "&valor: " << &valor << " valor en memoria" << endl;
 	cout << "valor: " << valor << " valor asignado" << endl;
